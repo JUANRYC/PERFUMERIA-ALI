@@ -1,0 +1,19 @@
+{
+  "name": "ga7_login_adso_aa5_ev02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "JUAN JOSE REYES & ALISON RIVERA",
+  "license": "ISC",
+  "description": "TEST API EN POSTMAN",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^6.0.12",
+    "nodemon": "^3.1.3"
+  }
+}
