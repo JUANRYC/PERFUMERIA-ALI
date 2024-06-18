@@ -11,8 +11,16 @@ const Nosotros = () => {
                 La empresa PERFUMERIA ALI cuenta con 3 años de experiencia en el mercado, nos avalan como excelentes proveedores a precios muy bajos, somos pioneros en esencias puras para dama y caballero, con facilidades de pago y envíos rápidos.
             </p>
             </div>
+            <footer>
+                <p>&copy; 2024 PERFUMERIA ALI</p>
+                <ul class="rf">
+                    <li><a  href="#">Facebook</a></li>
+                    <li><a  href="#">Twitter</a></li>
+                    <li><a  href="#">Instagram</a></li>
+                </ul>
+                <a href="#">Contacto</a>
+            </footer>
         </div>
-        
     )
 }
 
